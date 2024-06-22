@@ -26,3 +26,7 @@ The analysis also examine the predicted accuracy of each approach and makes conc
 | **Flexibility**   | Very Flexible                   | Rigid                                                   | Moderately Flexible                                  |
 | **Characteristics**| Adapts based on nearest data points | First a linear decision boundary                        | Linear kernel is rigid; can use kernels (e.g., RBF) for greater flexibility. |
 |                   | Can fit highly non-linear patterns | Struggles with complex, nonlinear data without transformations | Kernel trick allows fitting complex, high-dimensional patterns. |
+
+# Feature Selection (ANOVA F-test)
+
+![Top 20 Features from TCGA Dataset](https://github.com/AIDataWizard/Data-Analysis-TCGA/blob/main/Top_20_feat_plot.png?raw=true)
